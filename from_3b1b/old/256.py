@@ -887,26 +887,3 @@ class Thumbnail(Scene):
         lock.set_height(6)
 
         self.add(background_num, num)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
